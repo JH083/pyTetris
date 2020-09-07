@@ -175,7 +175,7 @@ def is_overlapped(xpos, ypos, turn):
     return False
 
 pygame.init()
-pygame.key.set_repeat(30, 30)
+pygame.key.set_repeat(150, 150)
 SURFACE = pygame.display.set_mode([600, 600])
 FPSCLOCK = pygame.time.Clock()
 WIDTH = 12
