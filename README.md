@@ -25,3 +25,4 @@ pygame (An open source python library) https://www.pygame.org/wiki/GettingStarte
 # Screenshot
 
 ![tetris](https://user-images.githubusercontent.com/68724981/92339839-e954bb80-f06c-11ea-9d78-02cb1b1e1d2a.png)
+![tetris2](https://user-images.githubusercontent.com/68724981/92339905-451f4480-f06d-11ea-9b40-1e4e67d7a0d7.png)
