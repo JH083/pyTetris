@@ -22,5 +22,6 @@ python, pygame
 pygame (An open source python library) https://www.pygame.org/wiki/GettingStarted
 
 
-# Screenshots
+# Screenshot
 
+![tetris](https://user-images.githubusercontent.com/68724981/92339839-e954bb80-f06c-11ea-9d78-02cb1b1e1d2a.png)
